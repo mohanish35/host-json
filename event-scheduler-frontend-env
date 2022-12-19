@@ -1,3 +1,1 @@
-{
-    "VUE_APP_DEFAULT_TIMEZONE": "Asia/Kolkata"
-}
+VUE_APP_DEFAULT_TIMEZONE=Asia/Kolkata
